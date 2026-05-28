@@ -158,3 +158,5 @@ Crear mensaje:
     verifyChannelMiddleware
     messagesController.create()
 */
+
+export default app;
